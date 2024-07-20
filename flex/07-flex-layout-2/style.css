@@ -16,7 +16,7 @@ body {
   flex-wrap: wrap;
   justify-content: start;
   gap: 20px;
-  padding: 40px;
+  padding: 48px;
 }
 
 .header {
@@ -40,11 +40,13 @@ body {
   flex-shrink: 0;
   padding: 16px;
 }
+
 ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
+
 a {
   text-decoration: none;
   font-size: 24px;
