@@ -28,7 +28,8 @@ a {
 .content {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  align-items: center;
+  gap: 10px;
 }
 
 img {
@@ -40,6 +41,8 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 10px;
+  font-weight: 600;
 }
 
 input {
@@ -47,4 +50,8 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
+}
+
+.footer {
+
 }
