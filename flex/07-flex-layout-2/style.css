@@ -10,6 +10,14 @@ body {
   display: flex;
 }
 
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  gap: 20px;
+  padding: 40px;
+}
+
 .header {
   background: darkmagenta;
   color: white;
@@ -34,4 +42,7 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  width: 250px;
+  min-height: 250px;
+  padding: 20px;
 }
