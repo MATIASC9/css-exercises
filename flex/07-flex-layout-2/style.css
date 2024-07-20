@@ -21,9 +21,9 @@ body {
 .header {
   background: darkmagenta;
   color: white;
-  font-size: 30px;
-  font-weight: bold;
-  padding: 15px;
+  font-size: 32px;
+  font-weight: 900;
+  padding: 16px;
 }
 
 .footer {
